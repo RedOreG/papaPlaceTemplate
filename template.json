@@ -1,0 +1,15 @@
+{
+    "contact": "papaplatte",
+    "templates": [
+      {
+        "name": "papaplatte",
+        "sources": [
+     "https://cdn.discordapp.com/attachments/1114194046559207576/1131957405459157002/Techno_kleiner4.png"
+        ],
+       "x": 1000,
+        "y": 213
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
